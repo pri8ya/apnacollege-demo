@@ -2,4 +2,4 @@
 # apnacollege-demo
 this is my first repository
 <br>
-author-priya 
+author-priya (apna college)
